@@ -1,0 +1,66 @@
+Question 1. Corrected Code for Total Price 
+
+let items = ["Burger", "Pizza", "Fries"];
+let prices = [120, 250, 90];
+let total = 0;
+
+for (let i = 0; i < items.length; i++)
+{
+    total += prices[i];
+}
+
+console.log("Total price is: " + total);
+
+
+
+Question 2. Improved Indentation and Comments 
+
+
+function isEven(num)
+{
+    // Check if number is divisible by 2
+    if (num % 2 == 0)
+    {
+        return true;
+    }
+    else
+    {
+        return false;
+    }
+}
+
+
+
+
+Question 3. Function to Format Followers Count 
+
+function formatFollowersCount(count)
+{
+    if (count >= 1000000)
+    {
+        return (count / 1000000) + "M";
+    }
+    else if (count >= 1000)
+    {
+        return (count / 1000) + "K";
+    }
+    else
+    {
+        return count;
+    }
+}
+
+console.log(formatFollowersCount(1500));
+console.log(formatFollowersCount(1200000));
+
+
+Question 4. Corrected Even Numbers Program 
+
+for (let i = 1; i <= 10; i++)
+{
+    // Print only even numbers
+    if (i % 2 == 0)
+    {
+        console.log(i);
+    }
+}

@@ -1,0 +1,11 @@
+4. Correct Variable Names
+
+Given Name	Valid / Invalid	Correct Form
+
+1stPlayer	Invalid	firstPlayer
+player_age	Valid	player_age
+$score	Invalid	score
+total-marks	Invalid	total_marks
+userName	Valid	userName
+
+Variables are used to store data in a program. Different data types like int, float, char, and double are used depending on the kind of data we want to store.

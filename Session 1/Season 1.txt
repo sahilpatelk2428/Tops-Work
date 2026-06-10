@@ -1,0 +1,48 @@
+1. What is a Program? (Short Paragraph)
+
+A program is a set of instructions given to a computer to do a specific task. We use programs every day without noticing. For example, when I order food using Zomato, the app shows restaurants, takes my order, and tracks delivery because it follows a program made by developers.
+
+2. Three Programming Languages
+
+Language	Compiled / Interpreted
+C	Compiled
+Python	Interpreted
+Java	Both (Compiled and Interpreted)
+
+
+3. Flowchart for Booking a Movie Ticket on BookMyShow
+
+Start
+  ↓
+Open BookMyShow App
+  ↓
+Select City
+  ↓
+Choose Movie
+  ↓
+Select Date & Time
+  ↓
+Choose Seats
+  ↓
+Make Payment
+  ↓
+Booking Confirmed
+  ↓
+Receive Ticket
+  ↓
+End
+
+
+4. Algorithm for Ordering Food on Swiggy
+
+1. Open the Swiggy app.
+2. Log in to your account.
+3. Search for a restaurant.
+4. Select the food items.
+5. Add items to the cart.
+6. Check the total amount.
+7. Select the delivery address.
+8. Choose a payment method.
+9. Complete the payment.
+10. Order is confirmed.
+

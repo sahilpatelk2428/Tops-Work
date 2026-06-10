@@ -1,0 +1,16 @@
+5. Simple Memory Diagram
+
+likes = 500
+Address = 1000
+
++---------+
+| likes   |
+| 500     |
++---------+
+    ^
+    |
+ptrLikes
+(1000)
+
+
+A pointer stores the address of another variable. Using pointers, we can access and modify data through memory addresses.
