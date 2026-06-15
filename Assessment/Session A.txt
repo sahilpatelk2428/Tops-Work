@@ -1,0 +1,50 @@
+Session A
+
+1. Compiler vs Interpreter
+
+I would use a compiler because a food delivery app needs fast execution and fewer errors while running. Compiled programs are faster and better for deployment.
+
+2. Program for Employee Salary
+
+I would use:
+
+Variables (salary, bonus, tax)
+If-else statements (for conditions)
+Arithmetic operators (+, -, *)
+Functions (to calculate salary)
+
+These help calculate the final salary easily.
+
+3. Why Loops are Preferred
+
+Loops avoid writing the same code again and again. For a menu-driven program, I would use a while loop because the menu keeps showing until the user chooses Exit.
+
+4. Average Marks Problem
+
+The problem is that int stores only whole numbers. The average may contain decimal values.
+
+Solution: Use float or double data type for the average.
+
+5. Program Compiles but Crashes
+
+This is a runtime error.
+
+Two debugging practices:
+
+Check input values carefully.
+Use print statements to find where the program crashes.
+
+
+
+6. Structure vs Multiple Arrays
+
+I would use a structure because it keeps a student's name, marks, and grade together in one record. It is easier to manage than using many separate arrays.
+
+Example:
+
+struct Student
+{
+    char name[20];
+    int marks;
+    char grade;
+};
