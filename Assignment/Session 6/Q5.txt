@@ -1,0 +1,12 @@
+5. Difference Between Encapsulation and Abstraction
+Encapsulation
+
+Encapsulation means hiding data and allowing access through methods.
+
+Example: In WhatsApp, phone number is private and accessed using settings options.
+
+Abstraction
+
+Abstraction means showing only important features and hiding internal working.
+
+Example: On Instagram, we click the upload button and the photo gets uploaded. We don't see how the app processes it.
